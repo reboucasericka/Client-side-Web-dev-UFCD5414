@@ -46,7 +46,8 @@
 <details>
 <summary>Clique para expandir</summary>
 
-![Screenshot](img/index.png)
+
+![Image](https://github.com/user-attachments/assets/276cb3c2-a8b7-439c-a4fd-eaf48d973b56)
 
 </details>
 
